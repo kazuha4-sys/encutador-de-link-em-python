@@ -16,4 +16,5 @@ img = qr.make_image(fill="black", back_color="white")
 img.save("youtube2.png")
 
 print("Encurtador: ", encurtado)
-#Creador Kaka
+#Creador Kazuh@
+
